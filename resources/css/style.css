@@ -1,0 +1,13 @@
+html {
+background-color: black;
+
+}
+
+h1{
+color: white;
+text-transform: uppercase;
+text-align: center;
+font-size: 50px;
+font-family: serif;
+display: inline-flex;
+}
