@@ -11,3 +11,7 @@ font-size: 50px;
 font-family: serif;
 display: inline-flex;
 }
+
+ div img{
+  height: 80px;
+}
