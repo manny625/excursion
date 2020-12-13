@@ -1,0 +1,24 @@
+h1, .top {
+  text-transform: uppercase;
+  color: white;
+  text-align: center;
+font-size: 65px;
+padding: 20px;
+display: inline-flex;
+color: green;
+}
+html{
+background-color: black;
+
+}
+div video{
+align-content: center;
+}
+
+ h1.text{
+  text-transform: uppercase;
+  color: blue;
+
+.align {
+  align-content: center;
+}
